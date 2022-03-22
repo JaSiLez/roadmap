@@ -2,7 +2,7 @@
 
 :sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
 
-Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
+Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [CCoE ALM Teams discussions](https://github.com/orgs/pagonxt/teams/ccoe-apps/discussions). 
 
 [^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/1) within this repository is now closed. 
 
